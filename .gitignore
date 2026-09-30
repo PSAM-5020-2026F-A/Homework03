@@ -1,0 +1,8 @@
+.DS_S*
+__pycache__/
+audio_utils.py
+data_utils.py
+*.pyc
+tmp.wav
+data/**/*.wav
+data/**/*.png
